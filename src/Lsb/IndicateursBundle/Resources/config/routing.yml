@@ -1,0 +1,3 @@
+lsb_indicateurs_homepage:
+    pattern:  /
+    defaults: { _controller: LsbIndicateursBundle:Default:index }

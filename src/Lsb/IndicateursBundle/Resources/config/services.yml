@@ -1,0 +1,7 @@
+parameters:
+#    lsb_indicateurs.example.class: Lsb\IndicateursBundle\Example
+
+services:
+#    lsb_indicateurs.example:
+#        class: %lsb_indicateurs.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

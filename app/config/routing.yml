@@ -1,0 +1,4 @@
+lsb_indicateurs:
+    resource: "@LsbIndicateursBundle/Resources/config/routing.yml"
+    prefix:   /
+
